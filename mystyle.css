@@ -1,0 +1,15 @@
+body {
+  color: navy;
+  background-color: cyan;
+  overflow: auto;
+}
+
+.punanen { color: red; }
+
+punainen span {
+  color: red;
+}
+
+.crimson-text {
+      color: crimson;
+   }

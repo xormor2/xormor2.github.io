@@ -1,0 +1,52 @@
+body {
+  color: navy;
+  background-color: cyan;
+  overflow: auto;
+}
+
+.punanen {
+  color: red;
+}
+
+.punainen {
+  color: red;
+}
+
+.crimson-text {
+      color: crimson;
+}
+.yellow-text {
+  color: yellow;
+}
+
+.green-text {
+  color: green;
+}
+
+.red-text {
+  color: red;
+}
+
+.purple-text {
+  color: purple;
+}
+
+.blue-text {
+  color: blue;
+}
+
+.orange-text {
+  color: orange;
+}
+
+.isofontti {
+  font-size: 4em;
+}
+
+.bigfont {
+  font-size: 8em;
+}
+
+.runefont {
+  font-size: 4em;
+}
